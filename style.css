@@ -1,0 +1,163 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+      "Segoe UI Symbol";
+  }
+  .main {
+    width: 100%;
+    height: 100vh;
+    background-image: url("images/bgimg.jpg");
+  }
+  nav li {
+    color: white;
+    list-style: none;
+    padding: 45px;
+  }
+  .bt1{
+      background-color: #C9AB81;
+      border-color: #C9AB81;
+      width: 180px;
+      border-radius: 0px 0px 0px 0px;
+      height: 80%;
+      justify-content: center;
+  
+  }
+  .container {
+    padding-top: 100px;
+    margin-left: 110px;
+  }
+  .heading {
+      padding-top: -20px;
+    font-size: 77px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .bt:hover{
+    background: none;
+    border-color: #C9AB81;
+  }
+  .bt5{
+    margin-top: 180px;
+      background-color: #C9AB81;
+      border-color: #C9AB81;
+      border-radius: 0px 0px 0px 0px;
+      margin-left: 20px;
+      height: 180%;
+      width: 200px;
+      border-radius: none;
+  }
+  .lf1{
+    margin-left: -2px;
+
+  }
+   .aftermain{
+    display: flex;
+      background-color: black;
+  }
+  .up1{
+    margin-left: -100px;
+
+    margin-top: -140px;
+    background-color: #0E1415;
+    
+  }
+  .pp {
+    color: grey;
+  }
+  .hh a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+  }
+  .e1{
+    background-color: #0E1415;
+  }
+  .aftermain2{
+      background-color: black;
+    }
+    .abo{
+      margin-left: 620px;
+      margin-top: -50%;
+    }
+    .check{
+      height: 50px;
+      width: 210px;
+      margin-left: -50%;
+      font-family: Arial, Helvetica, sans-serif;
+      padding: 1%;
+    }
+    .abo2{
+      justify-content: center;
+
+    }
+    .lst1{
+      margin-left: -50px;
+    }
+ 
+    .lst2{
+      margin-left: 950px;
+      margin-top: -40%;
+    }
+    .bta{
+      margin-left: 200px;
+    }
+    .playimg{
+      margin-left: 45%;
+      margin-top: 15%;
+    }
+    .rd1{
+      margin-left: -100px;
+    }
+    .rd{
+      background-color:#C9AB81;
+      margin-left: 750px;
+      margin-top: -500px;
+      width: 30%;
+      height: 100%;
+    }
+    .map{
+      margin-top: 30%;
+      
+      margin-left: 10%;
+    }
+    .map1{
+      margin-top: 20%;
+      margin-left: 10%;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .p1{
+      margin-right: 180px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .hng{
+      margin-left: 3%;
+    }
+    .msg{
+      margin-top: -10%;
+    }
+    .pg{
+      margin-top: -20%;
+      margin-right: 10px;
+    }
+    .pg1{
+      margin-left: 20%;
+    }
+    .bg0{
+      background-color: black;
+    }
+    .lstlgo{
+      margin-left: 45%;
+      justify-content: center;
+    }
+    .logoo{
+      margin-left: -10%;
+      display: flex;
+    }
+    .glo{
+      margin-left: 10%;
+    }
+    .lf{
+      margin-left: 850px;
+      margin-top: -300px;
+
+    }
